@@ -42,17 +42,5 @@ bash
 Copy code
 rsync -av ~/Documents/sysadmin/expressvpn-autoconnect /mnt/FreeCloud41/backups/
 💡 Credits
-Created by [Your Name]
+Created by Granite
 Tested on Linux Mint, June 2025
-
-sql
-Copy code
-
-Then commit:
-
-```bash
-git add README.md
-git commit -m "Add README.md for GitHub"
-git push
-
-
